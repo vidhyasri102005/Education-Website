@@ -1,0 +1,69 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 a{
+    
+    margin-left: 10px;
+}
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding:10px 20px;
+    width: 500px;
+    margin-left: 40px;
+}
+
+
+
+.n1{background-color: rgb(32, 135, 133);}
+a:hover{
+    background-color: red;
+}
+table{
+   
+    line-height: 2;
+   
+}
+h2{
+    display: flex;
+}
+table, td {
+    border: 1px solid white;
+  }
+  td {
+    padding: 5px;
+  }
+  .n2{background-color: rgb(185, 29, 29);}
+  .n3{background-color: rgb(75, 204, 255)}
+  .n4{background-color: rgb(32, 135, 133);}
+  .n5{background-color: rgb(185, 29, 29);}
+  .n6{background-color: rgb(75, 204, 255)}
+  .n7{background-color: rgb(20, 34, 158)}
+  .n8{background-color: rgb(18, 94, 18)}
+  .n9{background-color: rgb(66, 10, 10)}
+.n10{background-color: rgb(20, 34, 158)}
+.n11{background-color: rgb(18, 94, 18)}
+.n13{background-color: orange}
+.n12{background-color: rgb(66, 10, 10)}
+.n14{background-color: rgb(20, 34, 158)}
+.n15{background-color: rgb(226, 115, 134)}
+.n16{background-color: orange}
+.n17{background-color: rgb(20, 34, 158)}
+.n18{background-color: rgb(226, 115, 134)}
+.n1,.n2,.n3,.n4,.n5,.n6,.n7,.n8,.n9,.n10,.n11,.n12,.n13,.n14,.n15,.n16,.n17,.n18{
+    color: white;
+    text-align: center;
+ }
+ body{
+    background: linear-gradient(90deg,rgba(0,65,255,0.43) 0%, rgba(0,80,255,0.79) 80%);
+    width: 100%;
+    height: 100%;
+    margin-left: 30%;
+     margin-top: 10%;
+ } 
+  
+  
+ 
